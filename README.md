@@ -8,7 +8,6 @@
 <h3>Imagem do Projeto<h3/>
   <image src="https://i.ibb.co/wh9pq6n/Captura-de-tela-2023-05-31-002716.png"/>
   
- <br/>
 Instruções:
   - npm install para instalar o Node_modules.
   - npm start para executar o projeto.
