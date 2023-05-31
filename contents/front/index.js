@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 
+
 const initialBoard = Array(9).fill('');
 
 export default function App() {
@@ -109,7 +110,7 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         alignItems: 'center',
-        justifyContent: 'center',
+        justifyContent: 'center'
     },
 
     textH1: {
@@ -122,9 +123,11 @@ const styles = StyleSheet.create({
     board: {
         flexDirection: 'row',
         flexWrap: 'wrap',
-        width: 300,
+        maxWidth: 300,
+        width: '100%',
         margin: 10,
     },
+
 
     cell: {
         width: '33.33%',
