@@ -6,7 +6,7 @@
 - Tudo de maneira o mais simples possível.
 
 <h3>Imagem do Projeto<h3/>
-  <image src="https://i.ibb.co/wh9pq6n/Captura-de-tela-2023-05-31-002716.png"/>
+  <image src="https://i.ibb.co/wh9pq6n/Captura-de-tela-2023-05-31-002716.png" style="margin: 20px"/>
   
 Instruções:
   - npm install para instalar o Node_modules.
